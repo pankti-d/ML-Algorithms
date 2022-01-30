@@ -1,5 +1,3 @@
-package Assignment1;
-
 public class directComputation {
 
     static int N = 2;
